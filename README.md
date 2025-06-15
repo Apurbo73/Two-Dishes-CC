@@ -1,6 +1,5 @@
 ﻿# Two-Dishes-CC:
 
-Absolutely! Here’s a step-by-step explanation of the logic and code:
 
 ---
 
@@ -80,7 +79,6 @@ If after trying all values of `x`, no valid combination is found, `possible` rem
 
 ---
 
-If you want, I can also help you test it with example inputs! Would you like that?
 
 
  
