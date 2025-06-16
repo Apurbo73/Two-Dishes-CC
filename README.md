@@ -28,7 +28,7 @@ B
 ,
 C
 N,A,B,C.
-Output Format
+### Output Format
 For each test case, print "YES" if Chef can prepare at least 
 N
 N dishes, otherwise print "NO". Print the output without quotes.
