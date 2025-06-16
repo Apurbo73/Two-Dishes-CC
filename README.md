@@ -15,7 +15,7 @@ C fishes in his house. Can he prepare at least
 N
 N dishes in total?
 
-Input Format
+### Input Format
 First line will contain 
 T
 T, number of testcases. Then the testcases follow.
